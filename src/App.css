@@ -1,0 +1,18 @@
+.light
+{
+  background-color: lightcyan;
+  color: black;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 620px;
+}
+.dark
+{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  height: 620px;
+  text-align: center;
+}
